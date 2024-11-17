@@ -1,0 +1,3 @@
+[submodule "hugo-saasify-demo"]
+	path = hugo-saasify-demo
+	url = git@github.com:chaoming/hugo-saasify-demo.git
